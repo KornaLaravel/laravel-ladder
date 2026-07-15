@@ -19,7 +19,7 @@ Inspired by [Laravel Jetstream](https://jetstream.laravel.com/features/teams.htm
 it offers a static approach, reducing queries and ensuring immutability for easy modifications.
 
 ## Install
-> This package requires Laravel 10 and above.
+> This package requires Laravel 12 and above.
 ```bash
 composer require eneadm/ladder
 ```
